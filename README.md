@@ -46,5 +46,3 @@ Logistics efficiency is critical for delivery companies. This project analyzes s
 • Python (Pandas, NumPy, Matplotlib)  
 • Google Colab  
 • Tableau  
-
-Delhivery Data Readme
